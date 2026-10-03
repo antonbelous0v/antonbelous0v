@@ -1,6 +1,8 @@
 # <img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"> 👋 Hello, I'm Anton!
 
-<div align="center">
+<div style="width: fit-content; 
+    margin: 0 auto; 
+    text-align: left;">
     Building software, designing systems, and growing engineering teams.<br />
     My personal blog: <code><a href="https://anton-belousov-cv.vercel.app/blog">#|- blog -|#</a></code><br />
 </div>
