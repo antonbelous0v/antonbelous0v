@@ -1,8 +1,8 @@
 # <img width="40" src="https://github.githubassets.com/images/mona-loading-default.gif"> 👋 Hello, I'm Anton!
 
 <div align="center">
-    I am a Ukrainian software engineer with experience since October 2020.<br />
-    my personal blog: <code><a href="https://anton-belousov-cv.vercel.app/blog">#|- blog -|#</a></code><br />
+    Building software, designing systems, and growing engineering teams.<br />
+    My personal blog: <code><a href="https://anton-belousov-cv.vercel.app/blog">#|- blog -|#</a></code><br />
 </div>
 
 ## My tech stack:
