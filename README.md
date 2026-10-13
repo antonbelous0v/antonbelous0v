@@ -4,7 +4,7 @@
     margin: 0 auto; 
     text-align: left;">
     Building software, designing systems, and growing engineering teams.<br />
-    My personal blog: <code><a href="https://anton-belousov-cv.vercel.app/blog">#|- blog -|#</a></code><br />
+    My personal blog: <code><a href="https://abelous0v.xyz/blog">#|- blog -|#</a></code><br />
 </div>
 
 ## My tech stack:
