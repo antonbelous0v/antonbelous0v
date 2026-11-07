@@ -8,5 +8,5 @@
 </div>
 
 ### Get in touch:
-- **Email**: <a href="mailto:polpoltrop228@gmail.com" target="_blank" rel="noreferrer">polpoltrop228@gmail.com</a>  
+- **Email**: <a href="mailto:anton@abelous0v.xyz" target="_blank" rel="noreferrer">anton@abelous0v.xyz</a>  
 - **Telegram**: <a href="https://t.me/abelous0v" target="_blank" rel="noreferrer">@abelous0v</a>
